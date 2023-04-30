@@ -10,3 +10,4 @@
   * [13. The Abstraction: Address Spaces](virtualization/13.-the-abstraction-address-spaces.md)
   * [15. Address Translation](virtualization/15.-address-translation.md)
   * [16. Segmentation](virtualization/16.-segmentation.md)
+  * [17. Free-Space Management](virtualization/17.-free-space-management.md)
