@@ -12,3 +12,4 @@
   * [16. Segmentation](virtualization/16.-segmentation.md)
   * [17. Free-Space Management](virtualization/17.-free-space-management.md)
   * [18. Paging: Introduction](virtualization/18.-paging-introduction.md)
+  * [19. Paging: Faster Translations (TLBs)](virtualization/19.-paging-faster-translations-tlbs.md)
