@@ -15,3 +15,4 @@
   * [19. Paging: Faster Translations (TLBs)](virtualization/19.-paging-faster-translations-tlbs.md)
   * [20. Paging: Smaller Tables](virtualization/20.-paging-smaller-tables.md)
   * [21. Beyond Physical Memory: Mechanisms](virtualization/21.-beyond-physical-memory-mechanisms.md)
+  * [22. Beyond Physical Memory: Policies](virtualization/22.-beyond-physical-memory-policies.md)
