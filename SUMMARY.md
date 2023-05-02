@@ -18,3 +18,4 @@
   * [22. Beyond Physical Memory: Policies](virtualization/22.-beyond-physical-memory-policies.md)
 * [Concurrency](concurrency/README.md)
   * [26. Concurrency: An Introduction](concurrency/26.-concurrency-an-introduction.md)
+  * [28. Locks](concurrency/28.-locks.md)
