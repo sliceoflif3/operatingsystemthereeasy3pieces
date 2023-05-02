@@ -16,3 +16,5 @@
   * [20. Paging: Smaller Tables](virtualization/20.-paging-smaller-tables.md)
   * [21. Beyond Physical Memory: Mechanisms](virtualization/21.-beyond-physical-memory-mechanisms.md)
   * [22. Beyond Physical Memory: Policies](virtualization/22.-beyond-physical-memory-policies.md)
+* [Concurrency](concurrency/README.md)
+  * [26. Concurrency: An Introduction](concurrency/26.-concurrency-an-introduction.md)
