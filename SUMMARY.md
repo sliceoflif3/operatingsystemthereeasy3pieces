@@ -21,3 +21,4 @@
   * [28. Locks](concurrency/28.-locks.md)
   * [29. Lock-based Concurrent Data Structures](concurrency/29.-lock-based-concurrent-data-structures.md)
   * [30. Condition Variables](concurrency/30.-condition-variables.md)
+  * [31. Semaphores](concurrency/31.-semaphores.md)
